@@ -37,6 +37,6 @@ public:
 */
 class figure{
 public:
-	;
-	
+	vector<point2D> chain;
+	vector<point2D> setpoints;
 };
